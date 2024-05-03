@@ -9,11 +9,12 @@
 <hr>
 
 ### 👨‍💻 Languages and tools
+![Github](https://img.shields.io/badge/github-121013?style=plastic&logo=github&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
 
@@ -24,8 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedsaied22&icon=0&color=12)](https://visitcount.itsvg.in)
-
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AhmedSaied22/AhmedSaied22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
