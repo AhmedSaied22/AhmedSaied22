@@ -1,43 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ahmed Saied</h1>
-<h2 align="center">Junior Mobile Developer</h2>
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<h3 align="center">
-  <samp> A highly motivated and flexible Junior Mobile Developer with over one year of experience. Driven to create cutting-edge solutions, with an adaptable mindset to tackle diverse challenges with ease. Passionate about delivering exceptional user experiences through innovative mobile development.
-  </samp>
-  <br> <br>
-</h3>
-<hr>
+<h1 align="center">🚀 Hi, I'm Ahmed Saied 👋</h1>
+<h2 align="center">📱 Junior Mobile Developer</h2>
 
-### 👨‍💻 Languages and Tools
-![Github](https://img.shields.io/badge/github-121013?style=plastic&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![API Integration](https://img.shields.io/badge/API-Integration-blue?style=plastic) 
-![Payment Integration](https://img.shields.io/badge/Payment-Integration-success?style=plastic) 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%230A0A0A.svg?style=plastic&logo=githubactions&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=plastic&logo=google-maps&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
-
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=web&logoColor=white)](https://ahmed-saied-portfolio.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/....) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arahanme) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Contribution Activity
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaied22&theme=dark&hide_border=false)
-
-### March 2025
-👉 Collaborative contributions in private projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile_Development-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend_Firestore-orange?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Integration-green?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+💡 A highly motivated and flexible **Junior Mobile Developer** with over **one year of experience**. Passionate about creating **scalable, high-performance** mobile applications with **intuitive UX/UI**.
+
+⚡ Strong in **Flutter, Kotlin, and Dart**. Experienced in **API integrations, Firebase, Google Maps, CI/CD, and payment gateways**.
+
+🎯 Constantly learning and evolving to bring **innovative solutions** to life!
+
+---
+
+## 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Integration-EE4C2C?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white">
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://ahmed-saied-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" width="200">
+  </a>
+  <a href="https://linkedin.com/in/...." target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/arahanme" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaied22&theme=dark&hide_border=false">
+</p>
+
+---
+
+## 🏆 Contribution Activity
+
+### March 2025
+📌 Collaborative contributions in **private projects**
+
+---
+
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
