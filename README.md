@@ -37,13 +37,13 @@
 
 ## 🌐 Connect with Me
 
-📌 You can check out my work **[here](https://ahmed-saied-portfolio.web.app/)**
+📌 You can check out my work **<a href="https://ahmed-saied-portfolio.web.app/" target="_blank">here</a>**
 
 <p align="center">
   <a href="https://ahmed-saied-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-saieed/" target="_blank">
+  <a href="https://linkedin.com/in/...." target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/arahanme" target="_blank">
