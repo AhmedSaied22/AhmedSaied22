@@ -13,7 +13,7 @@
 
 💡 A highly motivated and flexible **Junior Mobile Developer** with over **one year of experience**. Passionate about creating **scalable, high-performance** mobile applications with **intuitive UX/UI**.
 
-⚡ Strong in **Flutter, Kotlin, and Dart**. Experienced in **API integrations, Firebase, Google Maps, CI/CD, and payment gateways**.
+⚡ Strong in **Flutter, Kotlin, and Dart**. Experienced in **API integrations, Firebase, Google Maps, CI/CD, payment gateways, and writing clean code**.
 
 🎯 Constantly learning and evolving to bring **innovative solutions** to life!
 
@@ -30,21 +30,27 @@
   <img src="https://img.shields.io/badge/API_Integration-EE4C2C?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white">
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=codefactor&logoColor=white">
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
+📌 You can check out my work **[here](https://ahmed-saied-portfolio.web.app/)**
+
 <p align="center">
   <a href="https://ahmed-saied-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" width="200">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/...." target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/arahanme" target="_blank">
     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view" target="_blank">
+    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
