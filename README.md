@@ -46,12 +46,13 @@
   <a href="https://www.linkedin.com/in/ahmed-saieed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+   <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view" target="_blank">
+    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
   <a href="https://x.com/arahanme" target="_blank">
     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view" target="_blank">
-    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
+ 
 </p>
 
 ---
