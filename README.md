@@ -7,7 +7,6 @@
   <a href="https://ahmed-saied-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ahmed-saieed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view"><img src="https://img.shields.io/badge/CV-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ahmedsaied22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsaied22" />
 </p>
 
 ---
