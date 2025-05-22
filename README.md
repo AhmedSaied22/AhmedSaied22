@@ -1,43 +1,56 @@
 <h1 align="center">🚀 Hi, I'm Ahmed Saied 👋</h1>
-<h2 align="center">📱 Junior Mobile Developer</h2>
+<h2 align="center">📱 Junior Flutter Developer | 🧪 Software Quality Control Engineer</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile_Development-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend_Firestore-orange?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/API_Integration-green?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Software_Testing-Quality_Control-red?style=for-the-badge&logo=testing-library&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Testing-Postman-orange?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💡 A highly motivated and flexible **Junior Mobile Developer** with over **one year of experience**. Passionate about creating **scalable, high-performance** mobile applications with **intuitive UX/UI**.
+💡 I'm a passionate and detail-oriented **Junior Flutter Developer** and **Software Test Engineer** with practical experience in both mobile app development and manual testing.
 
-⚡ Strong in **Flutter, Kotlin, and Dart**. Experienced in **API integrations, Firebase, Google Maps, CI/CD, payment gateways, and writing clean code**.
+📱 Skilled in building **Flutter** apps with clean architecture, and experienced in **API integration**, **Firebase**, and **responsive UI/UX**.
 
-🎯 Constantly learning and evolving to bring **innovative solutions** to life!
+🧪 Strong background in **manual testing**, **test case design**, **regression**, and **functional testing**, using tools like **Postman**, **Trello**, and **DevTools**.
+
+🚀 Always aiming to deliver **high-quality, reliable** apps through **testing** and **clean code**!
 
 ---
 
-## 🚀 Languages & Tools
+## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/API_Integration-EE4C2C?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white">
-  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Clean%20Code-4CAF50?style=for-the-badge&logo=codefactor&logoColor=white">
-</p>
+### Mobile Development
+- Flutter / Dart
+- Firebase (Auth, Firestore)
+- Google Maps Integration
+- Payment Gateways
+- Clean Code Practices
+- CI/CD (GitHub Actions)
+
+### Quality Control & Testing
+- Manual Testing (STLC, SDLC)
+- Test Case Creation & Execution
+- Regression, Functional, Exploratory Testing
+- API Testing with Postman
+- Bug Tracking (Trello, Notion)
+- Selenium Basics (Java)
+- Agile / Scrum
+
+### Tools & Technologies
+- Git & GitHub
+- SQL / Firebase
+- Browser DevTools
+- Google Sheets, Excel
+- Notion, Word
 
 ---
 
 ## 🌐 Connect with Me
-
-📌 You can check out my work **<a href="https://ahmed-saied-portfolio.web.app/" target="_blank">here</a>**
 
 <p align="center">
   <a href="https://ahmed-saied-portfolio.web.app/" target="_blank">
@@ -46,13 +59,12 @@
   <a href="https://www.linkedin.com/in/ahmed-saieed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-   <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view" target="_blank">
     <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="https://x.com/arahanme" target="_blank">
     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
- 
 </p>
 
 ---
@@ -60,20 +72,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&theme=dark&hide_border=false&layout=compact">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaied22&theme=dark&hide_border=false">
 </p>
 
 ---
 
-## 🏆 Contribution Activity
+## 🏆 Recent Activity
 
 ### March 2025
-📌 Collaborative contributions in **private projects**
+✅ Tested and improved UX on **Sport Sphere App**  
+✅ Created detailed test cases and ran exploratory tests  
+✅ Reduced bug rate in project by **20%** through optimized testing
 
 ---
 
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+<h2 align="center">💻 Check Out My Projects & Repos Below ⬇️</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Powered by love for Flutter & Quality -->
