@@ -1,18 +1,17 @@
+
 <!-- 👋 Intro Section -->
 <h1 align="center">Hi there, I'm Ahmed Saied 👋</h1>
 <h3 align="center">Flutter Developer | Software Quality Control Engineer</h3>
 
 <p align="center">
-  <a href="mailto:ahmedsaied2019201@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-saieed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AhmedSaied22"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://ahmed-saied-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-saieed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view"><img src="https://img.shields.io/badge/CV-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedsaied22&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsaied22" />
 </p>
 
 ---
 
-<!-- 💻 Tech Stack -->
 ### 💻 Tech Stack
 - 🌐 **Languages:** Dart, Java, C++
 - 📱 **Frameworks:** Flutter, Firebase, Bloc, Provider
@@ -23,7 +22,6 @@
 
 ---
 
-<!-- 🧪 Software Testing Section -->
 ### 🧪 Software Quality Control
 - ✅ Strong foundation in STLC/SDLC and Agile.
 - 🔍 Experienced in regression, functional, and exploratory testing.
@@ -33,48 +31,52 @@
 
 ---
 
-<!-- 📱 Flutter Projects -->
 ### 📱 Featured Flutter Projects
 
-#### [🏀 Sport Sphere App](https://play.google.com/store/apps/details?id=com.assuit.pe_student)
-> For Assiut University's Physical Education students.  
-> **Tech:** Flutter, Firebase, API, PDF/File Handling, Google AdMob, Animations.
+#### 🏀 [Sport Sphere App](https://play.google.com/store/apps/details?id=com.assuit.pe_student)
+An educational app for Assiut University's Faculty of Physical Education.  
+**Features:** Book & exam downloads, grade tracking, animations, AdMob integration.  
+**Tech:** Flutter, Dart, Firebase, API, Internal Storage, UI/UX Design, PDF Viewer, Search.  
+**Tools Used:** Google AdMob, Firebase Auth/Storage, Custom File Manager, Dart DevTools.
 
-#### [🪦 Ekram App](https://play.google.com/store/apps/details?id=com.charitylocator.ikram)
-> A unique charitable app to locate grave sites.  
-> **Tech:** Flutter, Bloc, Local DB, Advanced Search, API.
+#### 🪦 [Ekram App](https://play.google.com/store/apps/details?id=com.charitylocator.ikram)
+A charity locator app to help users find grave sites.  
+**Features:** Local database, advanced search, location mapping.  
+**Tech:** Flutter, Dart, Bloc, Local DB, API, Search Engine.  
+**Tools Used:** SQLite, State Management (Bloc), Map Services, Custom Search.
 
-#### [🌍 AskAlwashm](https://apps.apple.com/sa/app/اسأل-الوشم/id1669547503)
-> Regional service for posting and discovery.  
-> **Tech:** Flutter, Provider, Firebase, Payment (Apple Pay, Card).
+#### 🌍 [AskAlwashm App](https://play.google.com/store/apps/details?id=com.developers.askalwashm)
+Online marketplace and social board for Al-Washm region.  
+**Features:** Ads posting, UI customization, Apple Pay integration.  
+**Tech:** Flutter, Dart, Provider, Firebase, Payment Gateway.  
+**Tools Used:** Firebase Firestore/Auth, Payment Plugins, Cloud Functions.
 
-#### [🚗 Car Story App](https://play.google.com/store/apps/details?id=com.echo.carstor)
-> Automotive parts and tools marketplace.  
-> **Tech:** Authentication, API, Localization, Biometrics, Responsive UI.
+#### 🚗 [Car Story App](https://play.google.com/store/apps/details?id=com.echo.carstor)
+An e-commerce app for car parts and tools.  
+**Features:** Authentication, cart, favorites, biometric login, localization.  
+**Tech:** Flutter, Dart, Local DB, API, Payment Integration.  
+**Tools Used:** Local DB, Firebase, Localization Package, Payment Plugins, Face ID/Biometrics.
 
-#### 💬 Eternal-AI Chat  
-> Chat with Gemini AI via beautiful UI.  
-> **Tech:** Flutter, Firebase, Bloc, Animation, API.
+#### 💬 Eternal-AI Chat
+Minimalist AI chat app with Gemini integration.  
+**Features:** Chat interface, animation, secure authentication.  
+**Tech:** Flutter, Bloc, Firebase Auth, API.  
+**Tools Used:** Gemini API, Firebase, Bloc Pattern, Animated Widgets.
 
-#### 📚 BookYap  
-> Read and explore a wide range of eBooks.  
-> **Tech:** Flutter, Bloc, MVVM, API.
+#### 📚 BookYap App
+A lightweight eBook reader.  
+**Features:** Free books library, category filters, clean UI.  
+**Tech:** Flutter, Dart, API Integration, MVVM, Bloc.  
+**Tools Used:** RESTful APIs, State Management, Local Cache.
 
 ---
 
-<!-- 🔧 GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaied22&layout=compact&theme=radical" alt="Ahmed's Top Languages">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsaied22&theme=radical" alt="Ahmed's GitHub Streak">
 </p>
-
----
-
-<!-- 🧠 Quote / Motto -->
-> “Code with purpose. Test with passion.”  
-> *— Ahmed Saied*
 
 ---
 
