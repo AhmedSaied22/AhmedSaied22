@@ -1,72 +1,67 @@
-
 <!-- 👋 Intro Section -->
 <h1 align="center">Hi there, I'm Ahmed Saied 👋</h1>
-<h3 align="center">Flutter Developer | Software Quality Control Engineer</h3>
+<h3 align="center">Flutter Developer | Software QA (Manual + Basic Automation)</h3>
 
 <p align="center">
-  <a href="https://ahmed-saied-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-saieed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1uV9xnP0gYyMtAqIapuXU6RCwDPiZpN9l/view"><img src="https://img.shields.io/badge/CV-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://ahmed-saied-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-saieed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Cquuw4xtNJfcQtJQTZle2eNjSGuNdC3O/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Flutter%20CV-02569B?style=flat&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1OMjyf-AKdHjBGZA19UBsxmVrOZJ-V7MS/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Testing%20CV-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
 - 🌐 **Languages:** Dart, Java, C++
-- 📱 **Frameworks:** Flutter, Firebase, Bloc, Provider
+- 📱 **Mobile:** Flutter, Firebase, Bloc, Provider
 - 🧪 **Testing:** Manual Testing, Postman, STLC, SDLC, Selenium (Basics)
-- 💡 **Other Tools:** Git, GitHub, Trello, Notion, DevTools
+- 💡 **Tools:** Git, GitHub, Trello, Notion, DevTools
 - 🎨 **Design:** Figma, Photoshop, Illustrator
-- 🚀 **Methodologies:** Agile, CI/CD, Clean Code, OOP, SOLID
+- 🚀 **Concepts:** Agile, CI/CD, Clean Code, OOP, SOLID
 
 ---
 
-### 🧪 Software Quality Control
-- ✅ Strong foundation in STLC/SDLC and Agile.
-- 🔍 Experienced in regression, functional, and exploratory testing.
-- 🧰 Tools: Postman, Trello, Google Sheets, DevTools.
-- 🐛 Bug tracking & reporting expert.
-- 📋 Created 100+ test cases improving QA coverage.
+### 🧪 Software Testing (1 Year Experience)
+- ✅ **1 year of hands-on QA experience** focusing on **Manual Testing** (Functional, Regression, Exploratory).
+- 🐛 Strong in **bug reporting** (clear steps, expected vs actual, severity/priority, evidence).
+- 🧾 Created and maintained **test cases** and improved coverage across features.
+- 🔗 API testing using **Postman** (basic validation, status codes, request/response checks).
+- 🤖 Basic **Automation Testing** using **Selenium (Java)** for simple UI flows.
+
+**Next Step (Growth Plan):**
+- 🎯 Actively learning **Automation Testing** deeper (frameworks, design patterns, CI integration).
+- ⚡ Planning to develop skills in **Performance Testing** (e.g., JMeter) and scaling automation.
 
 ---
 
-### 📱 Featured Flutter Projects
-
+### 📱 Featured Flutter Apps (Production)
 #### 🏀 [Sport Sphere App](https://play.google.com/store/apps/details?id=com.assuit.pe_student)
-An educational app for Assiut University's Faculty of Physical Education.  
-**Features:** Book & exam downloads, grade tracking, animations, AdMob integration.  
-**Tech:** Flutter, Dart, Firebase, API, Internal Storage, UI/UX Design, PDF Viewer, Search.  
-**Tools Used:** Google AdMob, Firebase Auth/Storage, Custom File Manager, Dart DevTools.
+Educational app for Assiut University's Faculty of Physical Education.  
+**Highlights:** Downloads, grade tracking, animations, AdMob integration.  
+**Tech:** Flutter, Firebase, APIs, Storage, Search, PDF Viewer.
 
 #### 🪦 [Ekram App](https://play.google.com/store/apps/details?id=com.charitylocator.ikram)
-A charity locator app to help users find grave sites.  
-**Features:** Local database, advanced search, location mapping.  
-**Tech:** Flutter, Dart, Bloc, Local DB, API, Search Engine.  
-**Tools Used:** SQLite, State Management (Bloc), Map Services, Custom Search.
+Charity locator to help users find grave sites.  
+**Highlights:** Local database, advanced search, mapping.  
+**Tech:** Flutter, Bloc, Local DB, APIs.
 
 #### 🌍 [AskAlwashm App](https://play.google.com/store/apps/details?id=com.developers.askalwashm)
-Online marketplace and social board for Al-Washm region.  
-**Features:** Ads posting, UI customization, Apple Pay integration.  
-**Tech:** Flutter, Dart, Provider, Firebase, Payment Gateway.  
-**Tools Used:** Firebase Firestore/Auth, Payment Plugins, Cloud Functions.
+Marketplace & social board for Al-Washm region.  
+**Highlights:** Ads posting, customization, payments.  
+**Tech:** Flutter, Provider, Firebase, Payment Gateway.
 
 #### 🚗 [Car Story App](https://play.google.com/store/apps/details?id=com.echo.carstor)
-An e-commerce app for car parts and tools.  
-**Features:** Authentication, cart, favorites, biometric login, localization.  
-**Tech:** Flutter, Dart, Local DB, API, Payment Integration.  
-**Tools Used:** Local DB, Firebase, Localization Package, Payment Plugins, Face ID/Biometrics.
-
-#### 💬 Eternal-AI Chat
-Minimalist AI chat app with Gemini integration.  
-**Features:** Chat interface, animation, secure authentication.  
-**Tech:** Flutter, Bloc, Firebase Auth, API.  
-**Tools Used:** Gemini API, Firebase, Bloc Pattern, Animated Widgets.
-
-#### 📚 BookYap App
-A lightweight eBook reader.  
-**Features:** Free books library, category filters, clean UI.  
-**Tech:** Flutter, Dart, API Integration, MVVM, Bloc.  
-**Tools Used:** RESTful APIs, State Management, Local Cache.
+E-commerce app for car parts and tools.  
+**Highlights:** Auth, cart, favorites, biometrics, localization.  
+**Tech:** Flutter, APIs, Local DB, Payments.
 
 ---
 
