@@ -35,12 +35,12 @@ End-to-end UI automation framework built with Playwright + TypeScript.
 - CI/CD pipeline via GitHub Actions for Smoke Tests
 - Documented known failing scenario for bug detection transparency
 
-#### 📦 [Playwright Automation Template](https://github.com/AhmedSaied22)
+#### 📦 [Playwright Automation Template](https://github.com/AhmedSaied22/Playwright-automation-template)
 Reusable Playwright starter structure for fast and consistent project setup.
 - Pre-organized folders, config, and core framework patterns
 - Designed for scalable test organization and junior-friendly reuse
 
-#### 🌐 [Practice UI Automation Web App](https://github.com/AhmedSaied22/Playwright-automation-te...)
+#### 🌐 [Practice UI Automation Web App](https://github.com/AhmedSaied22/Playwright-Shopflowlab-project)
 Simple web app built to train on real UI automation scenarios.
 - iframe handling, Shadow DOM basics, and locator strategies
 - Login state persistence using Playwright storage state
@@ -61,12 +61,13 @@ Simple web app built to train on real UI automation scenarios.
 > Available for **Flutter freelance projects** — feel free to reach out.
 
 **Flutter Stack:**
-- **Core:** Flutter, Dart, Bloc, Provider
+- **Core:** Flutter, Dart, Bloc, Provider, OOP, Clean Arch.
 - **Backend & Storage:** Firebase, REST APIs, Local DB, Hive
-- **Payments:** Stripe, in-app purchases
+- **Payments:** Stripe, EdfaPAY, Tamara, Paymob, in-app purchases
 - **Other:** Figma, AdMob, Biometrics, Localization, Push Notifications
 
 **Production Apps:**
+- 🛒[Filanto](https://apps.apple.com/us/app/filanto-store/id6758596540) — E-commerce · Flutter, QC, BLOC, Payment Gateway, Order System
 - 🏀 [Sport Sphere](https://play.google.com/store/apps/details?id=com.assuit.pe_student) — Educational app · Flutter, Firebase, AdMob
 - 🪦 [Ekram](https://play.google.com/store/apps/details?id=com.charitylocator.ikram) — Charity locator · Flutter, Bloc, Local DB
 - 🌍 [AskAlwashm](https://play.google.com/store/apps/details?id=com.developers.askalwashm) — Marketplace · Flutter, Provider, Payment Gateway
